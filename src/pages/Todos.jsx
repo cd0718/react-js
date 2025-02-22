@@ -33,8 +33,11 @@ const Todos = () => {
     <div>
       <Card className="w-[750px]">
         <CardHeader>
-          <CardTitle>To do's </CardTitle>
-          <CardDescription>Here are the of you to do's</CardDescription>
+          <CardTitle>Hi! My name is Christine G. Dacles</CardTitle>
+          
+          <CardDescription> I am a 4th Year Bachelor of Science in Information Technology</CardDescription>
+          <CardDescription> at the University of Mindanao Davao City</CardDescription>
+        
         </CardHeader>
         <CardContent>
           <div className="flex flex-col gap-y-5 items-center">
@@ -44,7 +47,7 @@ const Todos = () => {
           </div>
         </CardContent>
         <CardFooter className="flex justify-between">
-          <h1>Made with ♥ by Mario Inguito</h1>
+          <h1>All rights reserved.</h1>
         </CardFooter>
       </Card>
     </div>
